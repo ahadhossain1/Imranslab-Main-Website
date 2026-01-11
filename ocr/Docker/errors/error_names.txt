@@ -1,4 +1,0 @@
-ValueError
-AssertionError
-NameError
-OSError
